@@ -1,0 +1,9 @@
+D:\project\PLC_Test\example_lib\MyClassExample\MyClassExample\bin\x86\Debug\MyClassExample.dll
+D:\project\PLC_Test\example_lib\MyClassExample\MyClassExample\bin\x86\Debug\MyClassExample.pdb
+D:\project\PLC_Test\example_lib\MyClassExample\MyClassExample\obj\x86\Debug\MyClassExample.csproj.AssemblyReference.cache
+D:\project\PLC_Test\example_lib\MyClassExample\MyClassExample\obj\x86\Debug\MyClassExample.csproj.CoreCompileInputs.cache
+D:\project\PLC_Test\example_lib\MyClassExample\MyClassExample\obj\x86\Debug\MyClassExample.dll
+D:\project\PLC_Test\example_lib\MyClassExample\MyClassExample\obj\x86\Debug\MyClassExample.pdb
+D:\project\PLC_Test\example_lib\MyClassExample\MyClassExample\obj\x86\Debug\Interop.ActProgTypeLib.dll
+D:\project\PLC_Test\example_lib\MyClassExample\MyClassExample\obj\x86\Debug\Interop.ActUtlTypeLib.dll
+D:\project\PLC_Test\example_lib\MyClassExample\MyClassExample\obj\x86\Debug\MyClassExample.csproj.ResolveComReference.cache

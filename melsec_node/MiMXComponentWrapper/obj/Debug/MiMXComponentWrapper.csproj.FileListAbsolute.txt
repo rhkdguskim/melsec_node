@@ -1,0 +1,9 @@
+D:\project\miplc\example_lib\MyClassExample\MiMXComponentWrapper\bin\Debug\MiMXComponentWrapper.dll
+D:\project\miplc\example_lib\MyClassExample\MiMXComponentWrapper\bin\Debug\MiMXComponentWrapper.pdb
+D:\project\miplc\example_lib\MyClassExample\MiMXComponentWrapper\obj\Debug\MiMXComponentWrapper.csproj.AssemblyReference.cache
+D:\project\miplc\example_lib\MyClassExample\MiMXComponentWrapper\obj\Debug\Interop.ActProgType64Lib.dll
+D:\project\miplc\example_lib\MyClassExample\MiMXComponentWrapper\obj\Debug\Interop.ActUtlType64Lib.dll
+D:\project\miplc\example_lib\MyClassExample\MiMXComponentWrapper\obj\Debug\MiMXComponentWrapper.csproj.ResolveComReference.cache
+D:\project\miplc\example_lib\MyClassExample\MiMXComponentWrapper\obj\Debug\MiMXComponentWrapper.csproj.CoreCompileInputs.cache
+D:\project\miplc\example_lib\MyClassExample\MiMXComponentWrapper\obj\Debug\MiMXComponentWrapper.dll
+D:\project\miplc\example_lib\MyClassExample\MiMXComponentWrapper\obj\Debug\MiMXComponentWrapper.pdb
